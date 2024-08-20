@@ -10,7 +10,7 @@ I'm an aspiring developer with a passion for game development, AI, robotics, and
 
 ## Projects
 ### [Project 1: Book Database with SQL and MySQL](#)
-A project where I created a book database with around 30 books and 20 users, including book loans and dates.
+A project where I created a book database with around 72 books and 21 users, including book loans and dates.
 
 ### [Project 2: Console-based Tetris Game](#)
 A classic Tetris game developed in Python.
