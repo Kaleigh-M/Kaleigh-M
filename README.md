@@ -1,5 +1,9 @@
 # 💫 About Me:
-I'm an aspiring developer with a passion for game development, AI, robotics, and cybersecurity. I love working on projects that challenge me and help me grow my skills.<br><br>What I'm Working On:<br><br>Game Development: Currently developing multiple games using Unity.<br>AI and Robotics: Exploring AI and reinforcement learning projects<br>Cybersecurity: Preparing for the Security+ certification and building tools to enhance security skills.
+I'm an aspiring developer with a passion for game development, AI, robotics, and cybersecurity. I love working on projects that challenge me and help me grow my skills.<br>
+
+# What I'm Working On:<br>
+Game Development: Currently developing multiple games using Unity.<br>AI and Robotics: Exploring AI and reinforcement learning projects<br>Cybersecurity: Preparing for the Security+ certification and building tools to enhance security skills.
+
 
 
 # 💻 Tech Stack:
@@ -7,7 +11,6 @@ I'm an aspiring developer with a passion for game development, AI, robotics, and
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Kaleigh-M&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Kaleigh-M&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaleigh-M&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Kaleigh-M&theme=radical&no-frame=false&no-bg=false&margin-w=4)
