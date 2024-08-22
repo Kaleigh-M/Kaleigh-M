@@ -1,8 +1,8 @@
 # About Me:
-<br>I'm learning game development, AI, robotics, and cybersecurity. I enjoy working on projects that help me build and expand my skills.<br>
+<br>I enjoy working on projects that help me build and expand my skills.<br>
 
 # What I'm Working On:<br>
-Game Development: Currently developing multiple games using Unity.<br>
+Game Development: Currently developing two games using Unity.<br>
 AI and Robotics: Exploring AI and reinforcement learning projects<br>
 Cybersecurity: Preparing for the Security+ certification and building tools to enhance security skills.
 
