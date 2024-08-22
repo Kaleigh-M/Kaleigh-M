@@ -1,5 +1,5 @@
-# 💫 About Me:
-<br>I'm an aspiring developer with a passion for game development, AI, robotics, and cybersecurity. I love working on projects that  help me grow my skills.<br>
+# About Me:
+<br>I'm learning game development, AI, robotics, and cybersecurity. I enjoy working on projects that help me build and expand my skills.<br>
 
 # What I'm Working On:<br>
 Game Development: Currently developing multiple games using Unity.<br>
