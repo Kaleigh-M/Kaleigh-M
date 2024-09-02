@@ -4,7 +4,7 @@
 # What I'm Working On:<br>
 Game Development: Currently developing two games using Unity.<br>
 
-AI and Robotics: Exploring AI and reinforcement learning projects<br>
+AI: Exploring AI and reinforcement learning projects<br>
 
 Cybersecurity: Preparing for the Security+ certification and building tools to enhance security skills.
 
