@@ -17,6 +17,5 @@ Cybersecurity: Preparing for the Security+ certification.
 ![](https://github-profile-trophy.vercel.app/?username=Kaleigh-M&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Kaleigh-M&icon=0&color=0)](https://visitcount.itsvg.in)
-
+[![](https://visitcount.itsvg.in/api?id=Kaleigh-M&label=Profile%20Views&color=0&icon=0&pretty=true)](https://visitcount.itsvg.in)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
