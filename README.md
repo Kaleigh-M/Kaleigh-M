@@ -4,7 +4,7 @@
 # What I'm Working On:<br>
 Game Development: Currently developing two games using Unity.<br>
 
-AI: Exploring AI and reinforcement learning projects<br>
+AI: Creating a AI chatbot using python and Rasa <br>
 
 Cybersecurity: Preparing for the Security+ certification.
 
